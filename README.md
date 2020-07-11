@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Prasanna having 10+ years of experience in Software Industry. I have worked with multiple tech stacks (Ruby on Rails, Spring/Java, Golang, Vuejs), in different roles(Individual Contributor, Tech Lead, Onsite co-ordinator) and now finally settled as Freelance Devops Consultant favoring Agile / Lean methodologies.
+I am Prasanna having 10+ years of experience in Software Industry. I have worked with multiple tech stacks *[Ruby on Rails, Spring/Java, Golang, Vuejs]*, in different roles *[Individual Contributor, Tech Lead, Onsite co-ordinator]* and now finally settled as Freelance Devops Consultant favoring Agile / Lean methodologies.
 
 I am currently working as Freelance Devops consultant at [Toptal](https://www.toptal.com/resume/prasanna-venkataraman)
 
 - 🔭 I’m currently working on
 
-Migrating to Kubernetes based deployments, Setting up CI / CD pipelines, Monolith to Microservices architecture migration, Monitoring & Alerting for the Big data Infrastructure, Migration to AWS Cloud.
+1. Monolith to Microservices architecture migration
+2. Migrating to Kubernetes based deployments
+3. Setting up CI / CD pipelines
+4. Monitoring & Alerting for the Big data Infrastructure
+5. Migration to AWS Cloud
 
 - 🌱 I’m currently learning ...
 
