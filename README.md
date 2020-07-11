@@ -46,3 +46,5 @@ Best practices around Devops, CI/CD, Kubernetes
 - 😄 Pronouns:
 
 He/Him
+
+[![Prasanna's github stats](https://github-readme-stats.vercel.app/api?username=worldofprasanna)](https://github.com/anuraghazra/github-readme-stats)
