@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Prasanna having 10+ years of experience in Software Industry. I have worked with multiple tech stacks *[Ruby on Rails, Spring/Java, Golang, Vuejs]*, in different roles *[Individual Contributor, Tech Lead, Onsite co-ordinator]* and now finally settled as Freelance Devops Consultant favoring Agile / Lean methodologies.
+I am Prasanna having 13+ years of experience in Software Industry. I have worked with multiple tech stacks *[Ruby on Rails, Python, Spring/Java, Golang, ReactJs]*, in different roles *[Individual Contributor, Tech Lead, Onsite co-ordinator]* and now finally settled as Freelance Devops Consultant favoring Agile / Lean methodologies.
 
 I am currently working as Freelance Devops consultant at [Toptal](https://www.toptal.com/resume/prasanna-venkataraman)
 
-- 🔭 I’m currently working on
+Building [Monitz](https://www.monitz.co/) which is an API Monitoring application. If you are looking to Monitor your API 's please check it out and let me know your thoughts.
+
+- 🔭 Apart from Monitz, I have worked on,
 
 1. Monolith to Microservices architecture migration
 2. Migrating to Kubernetes based deployments
@@ -33,7 +35,7 @@ Site Reliablity Engineering
 
 - 👯 I’m looking to collaborate on ...
 
-Anything related to Devops & Site Reliability Engineering
+Anything related to Monitoring, Devops & Site Reliability Engineering
 
 - 💬 Ask me about ...
 
