@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Prasanna having 13+ years of experience in Software Industry. I have worked with multiple tech stacks *[Ruby on Rails, Python, Spring/Java, Golang, ReactJs]*, in different roles *[Individual Contributor, Tech Lead, Onsite co-ordinator]* and now finally settled as Freelance Devops Consultant favoring Agile / Lean methodologies.
+I am Prasanna having 15+ years of experience in Software Industry. I have worked with multiple tech stacks *[Ruby on Rails, Python, Spring/Java, Golang, ReactJs]*, in different roles *[Individual Contributor, Tech Lead, Onsite co-ordinator, Freelance DevOps Engineer]* and now formed a DevOps agency adding value to clients through [EzyInfra](https://ezyinfra.dev)
 
-I am currently working as Freelance Devops consultant at [Toptal](https://www.toptal.com/resume/prasanna-venkataraman)
+I am also part of Toptal which is a Freelance platform and this is my profile - [Toptal](https://www.toptal.com/resume/prasanna-venkataraman)
 
-Building [Monitz](https://www.monitz.co/) which is an API Monitoring application. If you are looking to Monitor your API 's please check it out and let me know your thoughts.
-
-- 🔭 Apart from Monitz, I have worked on,
+- 🔭 In the past, I have lead projects & have good hands-on expertise in,
 
 1. Monolith to Microservices architecture migration
 2. Migrating to Kubernetes based deployments
@@ -43,10 +41,9 @@ Best practices around Devops, CI/CD, Kubernetes
 
 - 📫 How to reach me: ...
 
-[About page](https://worldofprasanna.in)
+[LinkedIn]([https://linkedin.com/in/worldofprasanna])
+[Twitter](https://x.com/worldofprasanna)
 
 - 😄 Pronouns:
 
 He/Him
-
-[![Prasanna's github stats](https://github-readme-stats.vercel.app/api?username=worldofprasanna)](https://github.com/anuraghazra/github-readme-stats)
