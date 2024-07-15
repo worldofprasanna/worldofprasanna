@@ -41,7 +41,7 @@ Best practices around Devops, CI/CD, Kubernetes
 
 - 📫 How to reach me: ...
 
-[LinkedIn]([https://linkedin.com/in/worldofprasanna])
+[LinkedIn](https://linkedin.com/in/worldofprasanna)
 [Twitter](https://x.com/worldofprasanna)
 
 - 😄 Pronouns:
